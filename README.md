@@ -19,7 +19,7 @@ A simple web application that calculates the tip amount and total bill based on 
 
 ## 📸 Screenshot
 
-![Tip Calculator](Tip-calculator.png)
+![Tip Calculator](tip-calculator.png)
 
 ## 📚 What I Learned
 
